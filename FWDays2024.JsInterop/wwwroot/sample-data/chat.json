@@ -1,0 +1,2151 @@
+[
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 02:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 02:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 02:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 02:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 02:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 02:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 02:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 02:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 02:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 02:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 02:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 02:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 03:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 03:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 03:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 03:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 03:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 03:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 03:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 03:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 03:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 03:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 03:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 03:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 04:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 04:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 04:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 04:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 04:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 04:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 04:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 04:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 04:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 04:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 04:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 04:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 05:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 05:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 05:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 05:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 05:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 05:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 05:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 05:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 05:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 05:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 05:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 05:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 06:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 06:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 06:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 06:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 06:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 06:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 06:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 06:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 06:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 06:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 06:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 06:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 07:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 07:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 07:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 07:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 07:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 07:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 07:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 07:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 07:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 07:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 07:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 07:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 08:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 08:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 08:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 08:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 08:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 08:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 08:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 08:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 08:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 08:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 08:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 08:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 09:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 09:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 09:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 09:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 09:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 09:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 09:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 09:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 09:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 09:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 09:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 09:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 10:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 10:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 10:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 10:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 10:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 10:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 10:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 10:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 10:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 10:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 10:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 10:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 11:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 11:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 11:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 11:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 11:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 11:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 11:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 11:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 11:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 11:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "23 Jan 11:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "23 Jan 11:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 03:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 03:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 03:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 03:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 03:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 03:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 03:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 03:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 03:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 03:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 03:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 03:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 04:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 04:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 04:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 04:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 04:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 04:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 04:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 04:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 04:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 04:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 04:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 04:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 05:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 05:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 05:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 05:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 05:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 05:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 05:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 05:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 05:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 05:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 05:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 05:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 06:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 06:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 06:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 06:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 06:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 06:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 06:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 06:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 06:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 06:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 06:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 06:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 07:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 07:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 07:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 07:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 07:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 07:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 07:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 07:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 07:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 07:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 07:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 07:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 08:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 08:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 08:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 08:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 08:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 08:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 08:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 08:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 08:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 08:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 08:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 08:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 09:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 09:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 09:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 09:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 09:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 09:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 09:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 09:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 09:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 09:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 09:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 09:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 10:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 10:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 10:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 10:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 10:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 10:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 10:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 10:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 10:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 10:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 10:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 10:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 11:00 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 11:05 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 11:10 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 11:15 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 11:20 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 11:25 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 11:30 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 11:35 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 11:40 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 11:45 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 11:50 AM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 11:55 AM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Hi Catharine! Have you been to the new modern art exhibit at the downtown gallery? It\u2019s quite a fascinating showcase of contemporary pieces and innovative installations. I found it both thought-provoking and visually stunning.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Hi John! Yes, I went last weekend. The installations are quite impressive. The artists have truly outdone themselves with their creativity and the way they\u2019ve used space and technology to convey their messages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "The interactive digital art section really stood out to me. It\u2019s incredible how artists are leveraging technology to create immersive experiences. Did you have a chance to explore that part? I spent a good amount of time there, completely captivated by the visuals and the interactive elements.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "The same! It\u2019s amazing how technology is integrated into art these days. The virtual reality section, for instance, was mind-blowing. It felt like stepping into another world. The way artists are able to create such immersive experiences is truly fascinating. Did you have a favorite piece?",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 12:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. I think it brings a new dimension to the viewer's experience. The level of engagement and the sensory stimulation are on a whole new level.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 12:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Indeed. The interactive elements really draw you in and make you part of the artwork. It's a very engaging way to experience art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, it was incredible! I felt completely immersed in the artist's world. The VR installations were like stepping into another universe.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I think VR is the future of art exhibitions. It allows for such unique perspectives and experiences that you simply can\u2019t get from traditional forms of art.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Totally agree. I also liked the AI-generated art pieces. They were quite thought-provoking and pushed the boundaries of what we consider traditional art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "AI in art is a controversial topic. Some say it lacks the human touch, but I find it fascinating. It challenges our notions of creativity and authorship.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "There's definitely a debate to be had. But the creativity behind the algorithms is impressive. It\u2019s like a new form of intelligence expressing itself through art.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Yes, and it opens up new possibilities for artists to explore and experiment. The potential is vast, and we\u2019re only just beginning to scratch the surface.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Exactly. I think we are on the brink of a new era in art. Can't wait to see what's next!",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too! Do you think traditional art forms will still hold their place? There\u2019s something timeless about them that digital art can\u2019t quite replicate.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I believe so. There's a timeless quality to traditional art that digital can't replace. Each has its own unique charm and appeal.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "True. There's something about the texture and presence of physical art that's unique. It has a certain authenticity that\u2019s hard to beat.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 01:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and the skill involved in traditional methods is incredible. It's an art in itself. The craftsmanship is unparalleled.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 01:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Absolutely. I guess both forms will coexist and enrich the art world in different ways. It\u2019s all about finding a balance and appreciating the strengths of each.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:00 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "That's the best outcome, I think. Diversity in art forms makes the experience richer for everyone. It\u2019s all about expanding our horizons.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:05 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Couldn't agree more. So, what's your favorite piece from the exhibit? There were so many amazing works, it\u2019s hard to pick just one.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:10 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "It's hard to choose, but I'd say the AI-generated portrait series was my favorite. The detail and creativity were astonishing.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:15 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Those were impressive. The detail and creativity were astonishing. It\u2019s amazing what AI can do when it\u2019s guided by artistic vision.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:20 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Yes, and it was fascinating to read about the algorithms used to create them. The blend of art and science is truly remarkable.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:25 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I know! The blend of art and science is truly remarkable. It\u2019s like watching two worlds collide in the most beautiful way.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:30 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "I'm excited to see where it goes. The possibilities are endless. The future of art is looking very bright.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:35 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Definitely. As technology advances, the boundaries of art will continue to expand. We\u2019re entering a new era of creativity and expression.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:40 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Absolutely. Let's keep an eye out for more exhibits like this. It\u2019s always exciting to discover new and innovative artworks.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:45 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "For sure! I'll let you know if I come across any interesting ones. It\u2019s always great to have someone to discuss these things with.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "John Doe",
+    "DateTime": "24 Jan 02:50 PM",
+    "Picture": "https://img.icons8.com/color/36/000000/administrator-male.png",
+    "Content": "Thanks, Catharine. Looking forward to our next art adventure! It\u2019s always a pleasure discussing these things with you.",
+    "IsMyMessage": true
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "24 Jan 02:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "Me too, John! Talk to you soon. Goodbye!",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "25 Jan 03:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "I recently traveled to France, and one of the highlights of my trip was visiting the Louvre in Paris. The sheer size of the museum is overwhelming, and the architecture is stunning. Walking through the grand halls and seeing the iconic glass pyramid entrance was like stepping into a dream. Inside, the collection of art is just incredible. From ancient Egyptian artifacts to Renaissance masterpieces, every corner of the Louvre holds a piece of history. I spent hours in the painting galleries, mesmerized by works like the Mona Lisa and the vast, beautiful canvases of the French Romantic period. The amount of detail and emotion captured in these paintings is breathtaking.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "25 Jan 03:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content": "One of my most memorable experiences at the Louvre was exploring the vast collection of sculptures. The Winged Victory of Samothrace took my breath away; its dynamic form and the sense of movement in the stone are truly remarkable. I also loved wandering through the ancient Greek and Roman galleries, admiring the exquisite craftsmanship of the statues. The Venus de Milo, with its timeless beauty, stood out as an iconic piece. Each sculpture tells a story, and I found myself lost in thought, imagining the lives and times of the people who created and inspired these works.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "25 Jan 03:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content":   "During my visit to the Louvre, I was particularly captivated by the museum's extensive collection of decorative arts. The opulence and elegance of the French royal collections were on full display. The rooms dedicated to the apartments of Napoleon III were like stepping back in time to the height of French imperial grandeur. The furniture, the chandeliers, the intricate tapestries – every detail was a testament to the artistry and craftsmanship of the period. It was fascinating to see how art and design played such a central role in the lives of the French aristocracy.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "25 Jan 03:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content":   "The Louvre's Islamic Art collection was another highlight of my visit. The intricate patterns, vibrant colors, and exquisite calligraphy showcased the rich cultural heritage of the Islamic world. I was particularly drawn to the beautifully decorated ceramics and textiles. Each piece seemed to tell a story of its own, reflecting the artistic traditions and innovations of different regions and periods. It was a reminder of how interconnected our world has always been, with influences and ideas traveling across continents and centuries.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "25 Jan 03:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content":  "Of course, no visit to the Louvre would be complete without spending time in the museum's vast galleries of European paintings. I was deeply moved by the works of the Old Masters, especially the Baroque and Rococo paintings. The dramatic use of light and shadow, the vibrant colors, and the emotional intensity of the scenes depicted were incredibly powerful. Standing in front of masterpieces by artists like Rembrandt, Vermeer, and Rubens, I felt a profound connection to the past. These paintings have a timeless quality, capturing moments of human experience that resonate across the ages.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "25 Jan 03:55 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content":  "Another unforgettable moment at the Louvre was my visit to the museum's impressive collection of Near Eastern antiquities. The ancient Mesopotamian artifacts were particularly fascinating. Seeing the Code of Hammurabi, one of the oldest deciphered writings of significant length in the world, was like looking back into the dawn of human civilization. The detailed carvings and inscriptions on the stela were incredible, offering a glimpse into the legal and social structure of an ancient empire. I also marveled at the intricate Assyrian reliefs, which depicted scenes of battles, hunting expeditions, and ceremonies in remarkable detail. The craftsmanship and storytelling in these pieces are truly awe-inspiring.",
+    "IsMyMessage": false
+  },
+  {
+    "FullName": "Catharine Campbell",
+    "DateTime": "25 Jan 03:56 PM",
+    "Picture": "https://img.icons8.com/office/36/000000/person-female.png",
+    "Content":  "My journey through the Louvre also included a visit to the museum's beautiful collection of prints and drawings. I was amazed by the delicacy and precision of the works on paper, from sketches by Leonardo da Vinci to the detailed etchings of Rembrandt. It was fascinating to see the creative process of these great artists, observing their initial ideas and how they developed into finished masterpieces. The collection also included stunning examples of Japanese ukiyo-e prints, which I found particularly captivating. The use of color and line in these prints is so unique and expressive, capturing moments of beauty and everyday life in such an elegant and stylized manner. It was a truly enriching experience to see how different cultures and eras have approached the art of drawing and printmaking.",
+    "IsMyMessage": false
+  }
+]

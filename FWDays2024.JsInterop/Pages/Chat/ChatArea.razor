@@ -1,0 +1,59 @@
+﻿@page "/chat"
+@inject HttpClient Http
+
+<div class="box box-warning direct-chat direct-chat-warning">
+    <div class="box-header with-border">
+        <h3 class="box-title">Chat Messages</h3>
+
+        <div class="box-tools pull-right">
+            <span data-toggle="tooltip" title="" class="badge bg-yellow" data-original-title="3 New Messages">@(messages != null ? messages.Count(): "")</span>
+        </div>
+    </div>
+
+    <div class="box-body">
+        <div class="direct-chat-messages">
+        @if (messages != null && messages.Any())
+        {
+            foreach (var message in messages)
+            {
+                 <div class="@($"{(message.IsMyMessage ? "right" : "")} direct-chat-msg")">
+                    <div class="direct-chat-info clearfix">
+                        <span class="direct-chat-name pull-left">@message.FullName</span>
+                        <span class="direct-chat-timestamp pull-right">@message.DateTime</span>
+                    </div>
+                    <img class="direct-chat-img" src="@message.Picture" alt="message user image"> 
+                    <div class="direct-chat-text"> 
+                        @message.Content
+                    </div>
+
+                </div>  
+            }
+        }
+        </div>
+    </div>
+
+    <div class="box-footer">
+        <form action="#" method="post">
+            <div class="input-group">
+                <input type="text" name="message" placeholder="Type Message ..." class="form-control">
+                <span class="input-group-btn">
+                    <button type="button" class="btn btn-warning btn-flat">Send</button>
+                </span>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+@code{
+
+    private IEnumerable<ChatMessageRecord>? messages;
+
+    protected override async Task OnInitializedAsync()
+    {
+        messages = await Http.GetFromJsonAsync<ChatMessageRecord[]>("sample-data/chat.json");
+        StateHasChanged();
+    }
+    
+    record ChatMessageRecord(string FullName, string DateTime, string Picture, string Content, bool IsMyMessage);
+}

@@ -7,33 +7,40 @@
         <h3 class="box-title">Chat Messages</h3>
 
         <div class="box-tools pull-right">
-            <span data-toggle="tooltip" title="" class="badge bg-yellow" data-original-title="3 New Messages">@(messages != null ? messages.Count(): "")</span>
+            <button onclick="@(() => LoadNextBunch())">LOAD</button>
+            <span data-toggle="tooltip" title="" class="badge bg-yellow" data-original-title="3 New Messages">@(messages != null ? messages.Count() : "")</span>
         </div>
     </div>
 
     <div class="box-body">
         <div class="direct-chat-messages">
-        @if (messages != null && messages.Any())
-        {
-            foreach (var message in messages)
+            @if (IsLoading)
             {
-                if (message.Id == _dividerMessage)
-                {
-                    <NewMessagesDivider />
-                }
-                 <div class="@($"{(message.IsMyMessage ? "right" : "")} direct-chat-msg")">
-                    <div class="direct-chat-info clearfix">
-                        <span class="direct-chat-name pull-left">@message.FullName</span>
-                        <span class="direct-chat-timestamp pull-right">@message.DateTime</span>
-                    </div>
-                    <img class="direct-chat-img" src="@message.Picture" alt="message user image"> 
-                    <div class="direct-chat-text"> 
-                        @message.Content
-                    </div>
-
-                </div>  
+            <div style="display:flex; justify-content: center; width: 100%;">
+                <Spinner/>
+            </div>
             }
-        }
+            @if (messages != null && messages.Any())
+            {
+                foreach (var message in messages)
+                {
+                    if (message.Id == _dividerMessage)
+                    {
+                        <NewMessagesDivider/>
+                    }
+                    <div class="@($"{(message.IsMyMessage ? "right" : "")} direct-chat-msg")">
+                        <div class="direct-chat-info clearfix">
+                            <span class="direct-chat-name pull-left">@message.FullName</span>
+                            <span class="direct-chat-timestamp pull-right">@message.DateTime</span>
+                        </div>
+                        <img class="direct-chat-img" src="@message.Picture" alt="message user image">
+                        <div class="direct-chat-text">
+                            @message.Content
+                        </div>
+
+                    </div>
+                }
+            }
         </div>
     </div>
 
@@ -56,6 +63,7 @@
     private Guid? _dividerMessage;
     private int take = 20;
     private int currentPage = 0;
+    private bool IsLoading = false;
     
     protected override async Task OnInitializedAsync()
     {
@@ -67,26 +75,29 @@
 
     public async Task LoadNextBunch()
     {
+        IsLoading = true;
+        StateHasChanged();
+        await Task.Delay(700);
+        
         var result = (await Http.GetFromJsonAsync<ChatMessageRecord[]>("sample-data/chat.json"))
             .Reverse()
             .Skip(take * currentPage).Take(take)
-            .Select(x => x with {Id = Guid.NewGuid()});
+            .Select(x => x with {Id = Guid.NewGuid()})
+            .Reverse()
+            .ToList();
 
-       messages = messages.Concat(result.Reverse().ToList()).ToList();
+       messages = result.Concat(messages).ToList();
        currentPage++;
+       IsLoading = false;
        StateHasChanged();
     }
 
     public Guid? PositionOfDivider()
     {
-        var id = messages?.OrderByDescending(x =>
-        {
-            string format = "dd MMM h:mm tt";
-            CultureInfo provider = CultureInfo.InvariantCulture;
-            DateTime dateTime;
-            DateTime.TryParseExact(x.DateTime, format, provider, DateTimeStyles.None, out dateTime);
-            return dateTime;
-        }).TakeWhile(x => !x.IsMyMessage).Last().Id;
+        var id = messages?
+            .OrderByDescending(x => DateTime.ParseExact(x.DateTime, "dd MMM h:mm tt", CultureInfo.InvariantCulture, DateTimeStyles.None))
+            .TakeWhile(x => !x.IsMyMessage)
+            .Last().Id;
 
         return id;
     }

@@ -12,7 +12,7 @@ public record ChatMessageRecord(
 
 public interface IMessageService
 {
-    Task<IEnumerable<ChatMessageRecord>> LoadNextBunch(int skip, int take);
+    Task<IEnumerable<ChatMessageRecord>> LoadPrevBunch(int skip, int take);
 }
 
 public class MessageService : IMessageService
@@ -24,7 +24,7 @@ public class MessageService : IMessageService
         _httpClient = httpClient;
     }
 
-    public async Task<IEnumerable<ChatMessageRecord>> LoadNextBunch(int skip, int take)
+    public async Task<IEnumerable<ChatMessageRecord>> LoadPrevBunch(int skip, int take)
     {
         await Task.Delay(700);
 

@@ -5,15 +5,13 @@
 <div class="box box-warning direct-chat direct-chat-warning">
     <div class="box-header with-border">
         <h3 class="box-title">Chat Messages</h3>
-
         <div class="box-tools pull-right">
-            <button onclick="@(async () => await ViewModel.LoadNextMessages())">LOAD</button>
             <span data-toggle="tooltip" title="" class="badge bg-yellow" data-original-title="3 New Messages">@(ViewModel.Messages != null ? ViewModel.Messages.Count() : "")</span>
         </div>
     </div>
 
     <div class="box-body">
-        <div class="direct-chat-messages">
+        <div id="chat-area" class="direct-chat-messages">
             @if (ViewModel.IsLoading)
             {
             <div style="display:flex; justify-content: center; width: 100%;">
@@ -26,9 +24,9 @@
                 {
                     if (message.Id == ViewModel.PositionOfDividerMessageId)
                     {
-                        <NewMessagesDivider/>
+                        <NewMessagesSeparator/>
                     }
-                    <div class="@($"{(message.IsMyMessage ? "right" : "")} direct-chat-msg")">
+                    <div id="@message.Id" class="@($"{(message.IsMyMessage ? "right" : "")} direct-chat-msg")">
                         <div class="direct-chat-info clearfix">
                             <span class="direct-chat-name pull-left">@message.FullName</span>
                             <span class="direct-chat-timestamp pull-right">@message.DateTime</span>

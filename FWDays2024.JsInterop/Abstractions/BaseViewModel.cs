@@ -1,4 +1,4 @@
-﻿namespace FWDays2024.JsInterop.ViewModels;
+﻿namespace FWDays2024.JsInterop.Abstractions;
 
 public interface IBaseViewModel
 {

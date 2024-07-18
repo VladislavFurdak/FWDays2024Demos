@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using FWDays2024.JsInterop.Abstractions;
 using FWDays2024.JsInterop.Services;
 using Microsoft.JSInterop;
 
@@ -18,9 +19,7 @@ public class ChatViewModel : BaseViewModel, IChatViewModel
 {
     private const int BunchSize = 20;
     private readonly IJSRuntime _jsRuntime;
-
     private readonly IMessageService _messageService;
-
     private bool _firstLoad = true;
 
     public ChatViewModel(IMessageService messageService, IJSRuntime jsRuntime)
@@ -74,9 +73,9 @@ public class ChatViewModel : BaseViewModel, IChatViewModel
         NotifyStateChanged();
     }
 
-    private IEnumerable<Guid>? GetLastNewMessages()
+    private IEnumerable<Guid> GetLastNewMessages()
     {
-        return Messages?
+        return Messages
             .OrderByDescending(x =>
                 DateTime.ParseExact(x.DateTime, "dd MMM h:mm tt", CultureInfo.InvariantCulture, DateTimeStyles.None))
             .TakeWhile(x => !x.IsMyMessage)
@@ -86,7 +85,7 @@ public class ChatViewModel : BaseViewModel, IChatViewModel
 
     private void SetPositionOfDivider()
     {
-        var id = GetLastNewMessages()?.Last();
+        var id = GetLastNewMessages().Last();
         PositionOfDividerMessageId = id;
     }
 

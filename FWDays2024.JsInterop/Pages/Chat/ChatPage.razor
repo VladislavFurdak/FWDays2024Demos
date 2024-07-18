@@ -1,12 +1,13 @@
 ﻿@page "/chat"
 @using FWDays2024.JsInterop.ViewModels;
+@using FWDays2024.JsInterop.Abstractions;
 @inherits BasePage<IChatViewModel>
 
 <div class="box box-warning direct-chat direct-chat-warning">
     <div class="box-header with-border">
         <h3 class="box-title">Chat Messages</h3>
         <div class="box-tools pull-right">
-            <span data-toggle="tooltip" title="" class="badge bg-yellow" data-original-title="3 New Messages">@(ViewModel.Messages != null ? ViewModel.Messages.Count() : "")</span>
+            <span data-toggle="tooltip" title="" class="badge bg-yellow" data-original-title="3 New Messages">@(ViewModel.Messages.Count())</span>
         </div>
     </div>
 
@@ -18,7 +19,7 @@
                 <Spinner/>
             </div>
             }
-            @if (ViewModel.Messages != null && ViewModel.Messages.Any())
+            @if (ViewModel.Messages.Any())
             {
                 foreach (var message in ViewModel.Messages )
                 {

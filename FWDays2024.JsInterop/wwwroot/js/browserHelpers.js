@@ -7,6 +7,7 @@ var BrowserHelpers = {};
     let scrollHeight_new;
     let height_load_zone_size = 25;
     let chatAreaId = '#chat-area';
+    let newMessagesSeparatorId = "#new-messages-separator";
     
     function throttle(callback, time) {
         if (ttimer) return;
@@ -61,7 +62,7 @@ var BrowserHelpers = {};
 
     BrowserHelpers.ScrollToSeparator = function() {
         setTimeout(() => {
-            document.getElementById("new-messages-separator").scrollIntoView();
+            document.querySelector(newMessagesSeparatorId).scrollIntoView();
         },0);
     }
 

@@ -1,0 +1,22 @@
+﻿@using BlazorNexsus.Navigation
+@inherits MudBlazor.MudButton
+
+@inject INavigationManager<Navigation> NavigationManager
+@{
+    base.BuildRenderTree(__builder);
+}
+
+@code {
+    [Parameter, EditorRequired]
+    public Navigation DestinationPage { get; set; }
+    
+    [Parameter]
+    public Dictionary<string,string> NavigationParameters { get; set; }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        OnClick = EventCallback.Factory.Create<MouseEventArgs>(this,
+            async args => await NavigationManager.Go(pageKey: DestinationPage, navigationParams: NavigationParameters));
+    }
+}

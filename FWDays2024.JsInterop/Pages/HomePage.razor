@@ -1,7 +1,19 @@
 ﻿@page "/"
-
+@using BlazorNexsus.Navigation
+@using FWDays2024.JsInterop.Components
+@using MudBlazor
+@inject INavigationManager<Navigation> NavigationManager
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+<!-- trivial approach-->
+<button href="/chats">Go chats</button>
+
+<!--advanced approach- -->
+<button @onclick="()=>NavigationManager.Go(Navigation.ChatPage)">Go chats</button>
+
+<!--pro approach- -->
+<MudButtonExt Size="Size.Medium" StartIcon="@Icons.Material.Filled.ChatBubble" DestinationPage="Navigation.ChatPage">Go chats</MudButtonExt>

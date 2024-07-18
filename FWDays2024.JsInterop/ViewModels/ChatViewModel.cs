@@ -7,11 +7,9 @@ namespace FWDays2024.JsInterop.ViewModels;
 
 public interface IChatViewModel : IBaseViewModel
 {
-    int CurrentPage { get; }
     IEnumerable<ChatMessageRecord> Messages { get; }
     bool IsLoading { get; }
     Guid? PositionOfDividerMessageId { get; }
-    Task LoadPreviousMessages();
     Task Initialize();
     bool FirstLoad { get; }
     Task ScrollDown();
@@ -34,15 +32,14 @@ public class ChatViewModel : BaseViewModel, IChatViewModel
     public IEnumerable<ChatMessageRecord> Messages { get; private set; } = new List<ChatMessageRecord>();
     public bool IsLoading { get; private set; }
     public Guid? PositionOfDividerMessageId { get; private set; }
-    public bool NeedScrollDown { get; private set; }
     
     public async Task Initialize()
     {
+        await _jsRuntime.InvokeVoidAsync("BrowserHelpers.Initialize", DotNetObjectReference.Create(this));
+        await _jsRuntime.InvokeVoidAsync("BrowserHelpers.InitScrollWatch");
+        
         if (FirstLoad)
         {
-            await _jsRuntime.InvokeVoidAsync("BrowserHelpers.Initialize", DotNetObjectReference.Create(this));
-            await _jsRuntime.InvokeVoidAsync("BrowserHelpers.InitScrollWatch");
-
             await LoadPreviousMessages();
 
             NotifyStateChanged();

@@ -1,13 +1,11 @@
 ﻿@page "/chat"
-@using FWDays2024.JsInterop.ViewModels;
-@using FWDays2024.JsInterop.Abstractions;
-@inherits BasePage<IChatViewModel>
+@inherits FWDays2024.JsInterop.Abstractions.BasePage<FWDays2024.JsInterop.ViewModels.IChatViewModel>
 
 <div class="box box-warning direct-chat direct-chat-warning">
     <div class="box-header with-border">
         <h3 class="box-title">Chat Messages</h3>
         <div class="box-tools pull-right">
-            <span data-toggle="tooltip" title="" class="badge bg-yellow" data-original-title="3 New Messages">@(ViewModel.Messages.Count())</span>
+            <span class="badge bg-yellow">@(ViewModel.Messages.Count())</span>
         </div>
     </div>
 
@@ -15,48 +13,31 @@
         <div id="chat-area" class="direct-chat-messages">
             @if (ViewModel.IsLoading)
             {
-            <div style="display:flex; justify-content: center; width: 100%;">
-                <Spinner/>
-            </div>
+                <div style="display:flex; justify-content: center; width: 100%;">
+                    <Spinner/>
+                </div>
             }
             @if (ViewModel.Messages.Any())
             {
-                foreach (var message in ViewModel.Messages )
+                foreach (var message in ViewModel.Messages)
                 {
                     if (message.Id == ViewModel.PositionOfDividerMessageId)
                     {
                         <NewMessagesSeparator/>
                     }
-                    <div id="@message.Id" class="@($"{(message.IsMyMessage ? "right" : "")} direct-chat-msg")">
-                        <div class="direct-chat-info clearfix">
-                            <span class="direct-chat-name pull-left">@message.FullName</span>
-                            <span class="direct-chat-timestamp pull-right">@message.DateTime</span>
-                        </div>
-                        <img class="direct-chat-img" src="@message.Picture" alt="message user image">
-                        <div class="direct-chat-text">
-                            @message.Content
-                        </div>
 
-                    </div>
+                    <ChatMessage MessageRecord="message"/>
                 }
             }
         </div>
     </div>
-
-    <div class="box-footer">
-        <form action="#" method="post">
-            <div class="input-group">
-                <input type="text" name="message" placeholder="Type Message ..." class="form-control">
-                <span class="input-group-btn">
-                    <button type="button" class="btn btn-warning btn-flat">Send</button>
-                </span>
-            </div>
-        </form>
-    </div>
-
+    <ChatFooter/>
 </div>
 
 @code
 {
-    protected override async Task OnInitializedAsync() => await ViewModel.Initialize();
+    protected override async Task OnInitializedAsync()
+    {
+        await ViewModel.Initialize();
+    }
 }

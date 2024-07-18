@@ -1,0 +1,18 @@
+﻿@using FWDays2024.JsInterop.Services
+
+<div id="@MessageRecord.Id" class="@($"{(MessageRecord.IsMyMessage ? "right" : "")} direct-chat-msg")">
+    <div class="direct-chat-info clearfix">
+        <span class="direct-chat-name pull-left">@MessageRecord.FullName</span>
+        <span class="direct-chat-timestamp pull-right">@MessageRecord.DateTime</span>
+    </div>
+    <img class="direct-chat-img" src="@MessageRecord.Picture" alt="message user image">
+    <div class="direct-chat-text">
+        @MessageRecord.Content
+    </div>
+
+</div>
+
+@code{
+    [Parameter, EditorRequired]
+    public ChatMessageRecord MessageRecord { get; set; }
+}

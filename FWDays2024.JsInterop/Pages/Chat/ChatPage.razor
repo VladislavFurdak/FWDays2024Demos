@@ -40,4 +40,12 @@
     {
         await ViewModel.Initialize();
     }
+    
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender && !ViewModel.FirstLoad)
+        {
+            await ViewModel.ScrollDown();
+        }
+    }
 }

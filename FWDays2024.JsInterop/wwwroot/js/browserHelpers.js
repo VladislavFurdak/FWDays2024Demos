@@ -64,5 +64,11 @@ var BrowserHelpers = {};
             document.getElementById("new-messages-separator").scrollIntoView();
         },0);
     }
+
+    BrowserHelpers.ScrollToBottom = function() {
+        setTimeout(() => {
+            document.querySelector(chatAreaId).scrollTop = 999999999;
+        },0);
+    }
     
 })();

@@ -13,6 +13,8 @@ public interface IChatViewModel : IBaseViewModel
     Guid? PositionOfDividerMessageId { get; }
     Task LoadPreviousMessages();
     Task Initialize();
+    bool FirstLoad { get; }
+    Task ScrollDown();
 }
 
 public class ChatViewModel : BaseViewModel, IChatViewModel
@@ -20,7 +22,7 @@ public class ChatViewModel : BaseViewModel, IChatViewModel
     private const int BunchSize = 20;
     private readonly IJSRuntime _jsRuntime;
     private readonly IMessageService _messageService;
-    private bool _firstLoad = true;
+    public bool FirstLoad { get; private set; } = true;
 
     public ChatViewModel(IMessageService messageService, IJSRuntime jsRuntime)
     {
@@ -32,10 +34,11 @@ public class ChatViewModel : BaseViewModel, IChatViewModel
     public IEnumerable<ChatMessageRecord> Messages { get; private set; } = new List<ChatMessageRecord>();
     public bool IsLoading { get; private set; }
     public Guid? PositionOfDividerMessageId { get; private set; }
-
+    public bool NeedScrollDown { get; private set; }
+    
     public async Task Initialize()
     {
-        if (_firstLoad)
+        if (FirstLoad)
         {
             await _jsRuntime.InvokeVoidAsync("BrowserHelpers.Initialize", DotNetObjectReference.Create(this));
             await _jsRuntime.InvokeVoidAsync("BrowserHelpers.InitScrollWatch");
@@ -59,9 +62,14 @@ public class ChatViewModel : BaseViewModel, IChatViewModel
             }
         }
 
-        _firstLoad = false;
+        FirstLoad = false;
     }
-
+    
+    public async Task ScrollDown()
+    {
+        await _jsRuntime.InvokeVoidAsync("BrowserHelpers.ScrollToBottom");
+    }
+    
     public async Task LoadPreviousMessages()
     {
         IsLoading = true;
